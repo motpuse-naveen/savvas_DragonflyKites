@@ -72,7 +72,7 @@
         text-shadow: 15px 0px 47px rgb(0 0 0);
         color: #FFFFFF;
         letter-spacing: -5px;
-        line-height: 124px;
+        line-height: 97px;
         margin-right: auto;
     }
     .subheading{
@@ -86,11 +86,11 @@
         margin-top: 0px;
     }
     .moreInfo-container {
-        margin-top: 100px;
+        margin-top: 154px;
     }
     .award-circle-wrap {
-      padding-left: 181px;
-    padding-top: 47px;
+        padding-left: 209px;
+        padding-top: 0px;
     }
     .author-wrap span.image {
         float: left;
@@ -98,8 +98,10 @@
     }
     .author-wrap span.text {
         margin: 15px;
-        margin-top: -24px;
-        padding-top: 20px;
+        margin-top: 1px;
+        /* padding-top: 0; */
+        padding-left: 8px;
+
     }
     .orbitdiv {
         position: absolute;
@@ -145,7 +147,10 @@
         /* padding-top: 220px; */
     }
     
-    
+    .award-circle-wrap {
+        padding-left: 209px;
+        padding-top: 0px;
+    }
     .text-content .card {
         height: auto;
         margin-bottom: 1rem;
@@ -168,6 +173,7 @@
     .card-body p.card-text {
         font-size: 11px;
     }
+    
     .card-back {
         font-size: 9px;
     }
@@ -185,7 +191,7 @@
     }
     .award-circle-wrap
      {
-        padding-left: 1px;
+        padding-left: 167px;
         padding-top: 47px;
     }
     .moreInfo-wrapper {
@@ -308,6 +314,15 @@
     }
     .moreInfo-additionaltxt{
         padding: 20px;
+        padding-top: 36px;
+
+    }
+    .author-wrap span.text {
+        margin: 15px;
+        margin-top: 1px;
+        /* padding-top: 0; */
+        padding-left: 15px;
+
     }
     .actbtnFixed {
         position: absolute;
@@ -379,22 +394,25 @@
 @media (max-width: 430px) {
     h1.main-heading{
         font-size: 62px;
-        line-height: 74px;
+        line-height: 66px;
         margin-top: -29px;
     }
+    
     .author-container .author-wrap {
         /* float: left; */
         padding: 5px;
         padding-top: 0px;
     }
     .author-wrap span.text {
-        margin-left: 28px;
+        /* margin-left: 28px; */
     }
     .subheading{
         font-size: 37px;
-          }
+        position: absolute;
+        margin-top: 54px;
+        margin-left: -152px;          }
         .author-container.mobile .author-wrap {
-            padding-top: 148px;
+            padding-top: 231px;
 
         }
     .rikshaw-girl-text {
@@ -423,6 +441,7 @@
     }
     .moreInfo-additionaltxt{
         padding: 10px;
+        padding-top: 36px;
     }
     .orbitdiv{
         top: 20px;
@@ -437,7 +456,7 @@
     }
     h1.main-heading {
         font-size: 46px;
-        line-height: 58px;
+        line-height: 48px;
     }
     .author-container .text {
         font-size: 16px;
