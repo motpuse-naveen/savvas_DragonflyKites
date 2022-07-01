@@ -1,9 +1,14 @@
+.author-wrap span.image {
+    margin-right: 12px;
+}
+
 @media (max-width:1240px) {
     .popup-left-title {
         font-size: 44px;
     }
+
     .award-circle-wrap {
-    
+
         padding-top: 160px;
     }
 }
@@ -17,10 +22,11 @@
 @media (max-width: 990px) {
     .rikshaw-girl-text {
         position: relative;
-        padding-left: 0px;
+        /*padding-left: 0px;*/
         max-width: 740px;
-        margin: 0 auto;
+        /*margin: 0 auto;*/
     }
+
     h1.main-heading {
         font-family: 'poppins-semibold';
         font-size: 100px;
@@ -30,17 +36,19 @@
         line-height: 116px;
         margin-right: auto;
     }
-    .subheading{
-        font-size: 79px;
 
+    .subheading {
+        font-size: 79px;
     }
+
     .popup-content-col .col-md-12 .popup-left-title {
         margin-top: 0;
         text-align: left;
     }
 }
+
 @media (max-width: 990px) {
-    .author-container .author-wrap{
+    .author-container .author-wrap {
         padding-right: 30px;
     }
 }
@@ -49,23 +57,27 @@
     .author-container {
         position: inherit;
     }
+
     .author-container .author-wrap {
         float: left;
         padding: 20px;
         padding-top: 0px;
     }
+
     .rikshaw-girl-bg {
         background-size: 680px;
         background-position-x: -165px;
         background-position-y: -140px;
     }
+
     .rikshaw-girl-text {
         position: relative;
         padding-top: 25px;
-        padding-left: 0px;
+        /*padding-left: 0px;*/
         max-width: 740px;
-        margin: 0 auto;
+        /*margin: 0 auto;*/
     }
+
     h1.main-heading {
         font-family: 'poppins-semibold';
         font-size: 100px;
@@ -75,34 +87,40 @@
         line-height: 97px;
         margin-right: auto;
     }
-    .subheading{
+
+    .subheading {
         font-size: 66px;
-        margin-left: 0px;
-        margin-top: 100px;  }
+        /*margin-left: 0px;
+        margin-top: 100px; */
+    }
 
     .moreInfo-wrapper {
         float: right;
         width: 320px;
         margin-top: 0px;
     }
+
     .moreInfo-container {
         margin-top: 154px;
     }
+
     .award-circle-wrap {
         padding-left: 209px;
         padding-top: 0px;
     }
+
     .author-wrap span.image {
         float: left;
         margin-top: -24px;
     }
+
     .author-wrap span.text {
-        margin: 15px;
+        /*margin: 15px;*/
         margin-top: 1px;
         /* padding-top: 0; */
-        padding-left: 8px;
-
+        /*padding-left: 8px;*/
     }
+
     .orbitdiv {
         position: absolute;
         top: 215px;
@@ -110,27 +128,38 @@
         width: 234px;
         height: 234px;
     }
-    .orbitdiv-button{
+
+    .orbitdiv-button {
         right: -47px;
         top: -260px;
     }
-    .moreInfo{
+
+    .moreInfo {
         top: 100px;
     }
-          /*NM: 11-05-2022*/
-          .moreInfo{
-            top: 191px;
-        }
-        /*NM: 11-05-2022*/
-        .moreInfo-additionaltxt {
-            padding: 40px 28px;
-        }
-        /*NM: 11-05-2022*/
-        .bg-image-opacity{
-            display: block;
-        }
-        .author-container .text {
-            font-size: 19px;}
+
+    /*NM: 11-05-2022*/
+    .moreInfo {
+        top: 191px;
+    }
+
+    /*NM: 11-05-2022*/
+    .moreInfo-additionaltxt {
+        padding: 40px 28px;
+    }
+
+    /*NM: 11-05-2022*/
+    .bg-image-opacity {
+        display: block;
+    }
+
+    .author-container .text {
+        font-size: 19px;
+    }
+
+    .author-container .text {
+        font-size: 16px;
+    }
 }
 
 @media (max-width: 760px) {
@@ -138,29 +167,35 @@
         font-size: 100px;
         letter-spacing: 0px;
         line-height: 101px;
-        padding-left: 20px;
+        /*padding-left: 20px;*/
     }
+
     .subheading {
         font-size: 60px;
     }
-    .author-container .author-wrap{
+
+    .author-container .author-wrap {
         /* padding-top: 220px; */
     }
-    
+
     .award-circle-wrap {
         padding-left: 209px;
         padding-top: 0px;
     }
+
     .text-content .card {
         height: auto;
         margin-bottom: 1rem;
     }
-    img.aboutBookCover{
+
+    img.aboutBookCover {
         float: left;
     }
-    .orbitdiv-button{
+
+    .orbitdiv-button {
         top: -255px;
     }
+
     .moreInfo-container {
         margin-top: 43px;
     }
@@ -170,107 +205,140 @@
     .card-body a.card-text {
         font-size: 12px;
     }
+
     .card-body p.card-text {
         font-size: 11px;
     }
-    
+
     .card-back {
         font-size: 9px;
     }
-    .author-container .author-wrap{
+
+    .author-container .author-wrap {
         padding-top: 145px;
     }
+
     .moreInfo-container {
         margin-top: 44px;
     }
-    .author-container .author-wrap{
-            padding-top: 0px;
+
+    .author-container .author-wrap {
+        padding-top: 0px;
     }
+
     .author-container .text {
-          font-size: 17px;
+        /*font-size: 17px;*/
     }
-    .award-circle-wrap
-     {
+
+    .award-circle-wrap {
         padding-left: 167px;
         padding-top: 47px;
     }
+
     .moreInfo-wrapper {
         float: right;
         width: 276px;
         margin-top: 0px;
     }
+
     .author-wrap span.image {
-        width: 62px;
+        /* width: 62px;*/
     }
-    
-    
+
+
 }
 
 @media (max-width: 640px) {
-    .topMenuBar2 {display: none;}
-    .orbit1, .orbit2, .orbit3{display: none;}
-    .left-side-bar{display: none;}
-    .popup-concave-col{display: none;}
-          /*NM: 11-05-2022*/
-          .author-container.desktop{
-            display: none;
-        }
-        /*NM: 11-05-2022*/
-        .author-container.mobile{
-            display: block;
-        }
-        /*NM: 11-05-2022*/
-        .author-container.mobile .author-wrap {
-            padding-top: 54px;
-        }
-    .popup-content-col{
+    .topMenuBar2 {
+        display: none;
+    }
+
+    .orbit1, .orbit2, .orbit3 {
+        display: none;
+    }
+
+    .left-side-bar {
+        display: none;
+    }
+
+    .popup-concave-col {
+        display: none;
+    }
+
+    /*NM: 11-05-2022*/
+    .author-container.desktop {
+        display: none;
+    }
+
+    /*NM: 11-05-2022*/
+    .author-container.mobile {
+        display: block;
+    }
+
+    /*NM: 11-05-2022*/
+    .author-container.mobile .author-wrap {
+        padding-top: 54px;
+    }
+
+    .popup-content-col {
         flex: 0 0 100%;
         max-width: 100%;
         padding-right: 15px;
         padding-left: 15px;
     }
-    .content-panel{
+
+    .content-panel {
         margin-left: 0px;
         padding-left: 15px;
         padding-right: 15px;
     }
-    .side-disclamer{
+
+    .side-disclamer {
         position: relative;
         width: auto;
     }
+
     .content-panel .text-content h2:first-child {
         padding-top: 10px;
     }
+
     .fixed-head-bar {
         /*display: none;*/
         background-color: transparent;
         background: #000000B2;
-        background: linear-gradient( 180deg, #000000B2 0%, transparent 100%);
-        background: -webkit-linear-gradient( 270deg, #000000B2 0%, transparent 100%);
+        background: linear-gradient(180deg, #000000B2 0%, transparent 100%);
+        background: -webkit-linear-gradient(270deg, #000000B2 0%, transparent 100%);
         background: -moz-linear-gradient(180deg, #000000B2 0%, transparent 100%);
     }
-    .top-mobile-menu-button{
+
+    .top-mobile-menu-button {
         display: block;
-        padding:20px;
+        padding: 20px;
         padding-bottom: 5px;
     }
+
     .container-fs.bb {
         box-shadow: none;
         -webkit-box-shadow: none;
         -moz-box-shadow: none;
     }
-    .slide-beforereading, .slide-duringreading, .slide-afterreading{
+
+    .slide-beforereading, .slide-duringreading, .slide-afterreading {
         margin-top: 90px !important;
     }
-    .rikshaw-girl-text{
+
+    .rikshaw-girl-text {
         padding-top: 90px;
         padding-bottom: 10%;
+        padding-left: 16px;
     }
-    h1.main-heading{
+
+    h1.main-heading {
         font-size: 100px;
         line-height: 112px;
     }
-    .orbitdiv{
+
+    .orbitdiv {
         position: fixed;
         height: auto;
         width: auto;
@@ -278,7 +346,8 @@
         right: 20px;
         z-index: 91;
     }
-    .orbitdiv-button{
+
+    .orbitdiv-button {
         position: fixed;
         height: auto;
         width: auto;
@@ -286,19 +355,29 @@
         right: 20px;
         z-index: 91;
     }
-    .orbitdiv button.moreInfo{display: block;}
-    .orbitdiv-button button.moreInfo{display: none;}
-    .orbitdiv .moreInfo{
+
+    .orbitdiv button.moreInfo {
+        display: block;
+    }
+
+    .orbitdiv-button button.moreInfo {
+        display: none;
+    }
+
+    .orbitdiv .moreInfo {
         position: unset;
     }
+
     .container-fs.slide.slide-aboutthebook {
         margin-top: 0px;
     }
+
     .rikshaw-girl-bg {
         background-size: 110%;
         background-position-x: -20px;
         background-position-y: -110px;
     }
+
     .award-circle-wrap {
         padding-left: 0px;
         padding-top: 0px;
@@ -306,24 +385,29 @@
         right: 10%;
         top: 46%;
     }
+
     .moreInfo-wrapper {
         float: left;
     }
-    .moreInfo-wrapper{
+
+    .moreInfo-wrapper {
         width: auto;
     }
-    .moreInfo-additionaltxt{
+
+    .moreInfo-additionaltxt {
         padding: 20px;
         padding-top: 36px;
 
     }
+
     .author-wrap span.text {
-        margin: 15px;
+        /*margin: 15px;*/
         margin-top: 1px;
         /* padding-top: 0; */
-        padding-left: 15px;
+        /*padding-left: 15px;*/
 
     }
+
     .actbtnFixed {
         position: absolute;
         float: right;
@@ -331,137 +415,178 @@
         left: unset;
         right: 25px;
     }
-    .author-container .text{
-        font-size: 20px;
+
+    .author-container .text {
+        /*font-size: 20px;*/
     }
-    .moreInfo-additionaltxt .title{
+
+    .moreInfo-additionaltxt .title {
         font-size: 19px;
     }
-    .content-panel .text-content h2{
+
+    .content-panel .text-content h2 {
         font-size: 32px;
     }
-    .content-panel .text-content h3{
+
+    .content-panel .text-content h3 {
         font-size: 22px;
     }
-    .content-panel .text-content{
+
+    .content-panel .text-content {
         font-size: 15px;
     }
-    .blue-button{
+
+    .blue-button {
         font-size: 15px;
         padding: 3px 12px;
     }
-    .content-panel .text-content h3.blue-heading, .content-panel .text-content p.blue-heading{
+
+    .content-panel .text-content h3.blue-heading, .content-panel .text-content p.blue-heading {
         font-size: 18px;
     }
-    .aboutauthorHeader{
+
+    .aboutauthorHeader {
         font-size: 24px;
     }
-    .popup-content-col{
+
+    .popup-content-col {
         font-size: 15px;
     }
-    .popup-left-title{
+
+    .popup-left-title {
         font-size: 32px;
     }
-    .popup-content-title{
+
+    .popup-content-title {
         font-size: 22px;
     }
+
     .annim-bg-image {
         animation: bgImageSlideMobile 2s normal;
     }
 }
+
 @media (max-width: 550px) {
-    h1.main-heading{
-        font-size: 90px;
-        line-height: 90px;
-    }
-    .subheading {
-        font-size: 53px;
-    }
-    .author-container.mobile .author-wrap {
-        padding-top: 134px;
-    }
-    .award-circle-wrap {
-        top: 38%;
-    }
-    img.aboutBookCover{
-        width: 200px;
-    }
-    .aboutBook{
-        float: left;
-        margin-bottom: 20px;
-    }
-}
-@media (max-width: 430px) {
-    h1.main-heading{
+    h1.main-heading {
         font-size: 62px;
         line-height: 66px;
         margin-top: -29px;
     }
-    
+
+    .subheading {
+        font-size: 37px;
+        /*position: absolute;
+        margin-top: 54px;
+        margin-left: -152px;   */
+    }
+
+
+    .author-container.mobile .author-wrap {
+        padding-top: 160px;
+    }
+
+    .award-circle-wrap {
+        top: 31%;
+    }
+
+    img.aboutBookCover {
+        width: 200px;
+    }
+
+    .aboutBook {
+        float: left;
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width: 430px) {
+
+
     .author-container .author-wrap {
         /* float: left; */
         padding: 5px;
         padding-top: 0px;
     }
+
     .author-wrap span.text {
         /* margin-left: 28px; */
     }
-    .subheading{
-        font-size: 37px;
-        position: absolute;
-        margin-top: 54px;
-        margin-left: -152px;          }
-        .author-container.mobile .author-wrap {
-            padding-top: 231px;
 
-        }
+    
+    .author-container.mobile .author-wrap {
+        padding-top: 231px;
+
+    }
+
     .rikshaw-girl-text {
         padding-bottom: 0%;
     }
+
     .award-circle-wrap {
         top: 28%;
     }
-    .author-container .text{
-        font-size: 20px;
+
+    .author-container .text {
+        /*font-size: 20px;*/
     }
-    .aboutBookCover-wrap{
+
+    .aboutBookCover-wrap {
         float: left;
     }
-    img.aboutBookCover{
+
+    img.aboutBookCover {
         width: 180px;
     }
-    .aboutBook{
+
+    .aboutBook {
         font-size: 14px;
     }
 }
+
 @media (max-width: 360px) {
-    .author-container .author-wrap{
+    .author-container .author-wrap {
         padding: 10px;
         padding-top: 145px;
     }
-    .moreInfo-additionaltxt{
+
+    .moreInfo-additionaltxt {
         padding: 10px;
         padding-top: 36px;
     }
-    .orbitdiv{
+
+    .orbitdiv {
         top: 20px;
         right: 15px;
     }
-    .aboutBook{
+
+    .aboutBook {
         float: left;
     }
-    .actbtnFixed{
+
+    .actbtnFixed {
         position: initial;
         padding-left: 20px;
     }
+
     h1.main-heading {
         font-size: 46px;
         line-height: 48px;
     }
+
     .author-container .text {
         font-size: 16px;
     }
+
     .moreInfo-additionaltxt .title {
         font-size: 16px;
+    }
+}
+@media (max-width: 360px) {
+    h1.main-heading {
+        font-size: 46px;
+        line-height: 48px;
+    }
+    .subheading {
+        font-size: 27px;
     }
 }

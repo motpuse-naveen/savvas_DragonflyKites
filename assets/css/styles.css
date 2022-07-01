@@ -710,7 +710,7 @@ table.table-style2 .trbg {
 
 h1.main-heading {
     font-family: 'poppins-semibold';
-    font-size: 120px;
+    font-size: 110px;
     text-shadow: 15px 0px 47px rgb(0 0 0);
     color: #FFFFFF;
     letter-spacing: -4px;
@@ -1316,6 +1316,9 @@ img.aboutBookCover{
   .zposition{min-width:350px;}
 
 .subheading{
-    font-size: 94px;
+    font-size: 84px;
     letter-spacing: 1px;
+    font-family: 'poppins-semibold';
+    text-shadow: 15px 0px 47px rgb(0 0 0);
+    color: #FFFFFF;
 }
